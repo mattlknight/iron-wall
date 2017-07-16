@@ -1,2 +1,2 @@
 # iron-wall
-IronWall, IPTables based Automatic Intrustion Prevention, written in Rust
+IronWall, IPTables based Automatic Intrusion Prevention, written in Rust
